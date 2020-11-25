@@ -30,10 +30,7 @@ public class EmpleadosResource {
     public EmpleadosResource() {
     }
 
-    /**
-     * Retrieves representation of an instance of org.uv.EmpleadosResource
-     * @return an instance of java.lang.String
-     */
+    
 //    @GET
 //    @Produces(MediaType.APPLICATION_JSON)
 //    public Empleado getJson() {
